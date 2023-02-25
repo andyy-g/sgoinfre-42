@@ -1,3 +1,6 @@
 [submodule "coc.nvim"]
 	path = coc.nvim
 	url = https://github.com/neoclide/coc.nvim
+[submodule "Tomato.C"]
+	path = Tomato.C
+	url = https://github.com/andyy-g/Tomato.C
